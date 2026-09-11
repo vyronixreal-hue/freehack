@@ -1,0 +1,28 @@
+{
+  "geode": "v5.10.1",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "freehack.mod",
+  "name": "FreeHack",
+  "version": "v1.0.0",
+  "developer": "Max",
+  "description": "A MegaHack-inspired Geometry Dash utility menu with a multi-column FreeHack interface.",
+  "links": {
+    "source": "https://github.com/"
+  },
+  "settings": {
+    "show-fps": {
+      "type": "bool",
+      "name": "Show FPS",
+      "description": "Show the current FPS counter.",
+      "default": false
+    },
+    "open-key": {
+      "type": "string",
+      "name": "Open key",
+      "description": "Keybind name used by the menu foundation.",
+      "default": "F6"
+    }
+  }
+}
